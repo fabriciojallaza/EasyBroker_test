@@ -1,6 +1,6 @@
 # Documentación del proyecto
 ## Descripción
-Este proyecto consiste en consumir la API de EasyBroker para leer todas las propiedades de una cuenta de staging e imprimir sus títulos. Se ha implementado una clase EasyBrokerAPI que se encarga de hacer la solicitud HTTP GET a la API y retornar la información de las propiedades en formato JSON.
+Este proyecto consiste en consumir la API de EasyBroker para leer todas las propiedades de una cuenta de staging e imprimir sus títulos. Se ha implementado una clase EasyBrokerAPI que se encarga de hacer la solicitud HTTP GET a la API y retornar la información de las propiedades.
 
 ## Dependencias
 - Python 3.x
