@@ -1,10 +1,10 @@
 import unittest
 from EasyBroker import EasyBrokerAPI
-from test import TestEasyBrokerAPIReader
+from test import TestEasyBrokerAPI
 
 if __name__ == '__main__':
     # Create a test suite
-    suite = unittest.TestLoader().loadTestsFromTestCase(TestEasyBrokerAPIReader)
+    suite = unittest.TestLoader().loadTestsFromTestCase(TestEasyBrokerAPI)
 
     # Run the test suite
     runner = unittest.TextTestRunner()
